@@ -1,4 +1,4 @@
-from brownie import accounts, config, TokenERC20, EasyToken
+from brownie import accounts, config, TokenERC20
 from scripts.helpful_scripts import get_account
 import time
 
