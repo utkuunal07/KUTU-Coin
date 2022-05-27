@@ -3,7 +3,7 @@ from scripts.helpful_scripts import get_account
 import time
 
 
-initial_supply = 1000000000000000000000000  # 1000
+initial_supply = 1000000000000000000000000  # 1000000
 token_name = "KUTUCOIN"
 token_symbol = "KUTU"
 
